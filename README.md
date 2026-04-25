@@ -1,4 +1,4 @@
-# 🎮 Planilha Controle de Vício em Jogos Online
+# 🎮 Planilha Controle de Vício em apostas
 ### AgilCris Consultoria — Produto Digital
 
 > **Ferramenta de recuperação financeira e terapêutica para quem quer retomar o controle da vida.**
